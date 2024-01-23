@@ -1,2 +1,2 @@
 # Math-for-ML-Specialization
-Professional certification for deeplearning.ai for Mathematics required Machine learning
+Professional certification provided by deeplearning.ai for Mathematics required for Machine learning
